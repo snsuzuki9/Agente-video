@@ -1,0 +1,8 @@
+node_modules/
+.env
+imagens/
+*.mp4
+*.wav
+lista.txt
+temp.mp4
+video.mp4
